@@ -1,6 +1,5 @@
 # X FINANCIAL TECHNOLOGIES
 
-## About
 X Financial Technologies (XFT) is a liquidity provider for closed-end funds and alternative assets. Our software allows users to trade traditional securities, like stocks and bonds, on the blockchain.
 
 ### Our Vision
