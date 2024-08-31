@@ -1,6 +1,6 @@
 # X FINANCIAL TECHNOLOGIES
 
-## About XFT
+## About
 X Financial Technologies (XFT) bridges traditional finance and DeFi, developing essential technologies for a unified, integrated, and universal financial access layer.
 
 ### Our Vision
@@ -16,8 +16,8 @@ We believe the financial system should serve everyone. Decentralized Finance fos
 
 ## Quick Links
 - **Website:** [xft.framer.website](https://xft.framer.website/)
-- **Documentation:** [XFT Docs](https://xft-docs.gitbook.io/xft-docs)
-- **Linktree:** [linktr.ee/alexander.reed](https://linktr.ee/alexander.reed)
+- **Documentation:**
+- **Linktree:** [https://linktr.ee/xft.reed](https://linktr.ee/xft.reed)
 - **Email:** [alex@alexandros-securities.com](mailto:alex@alexandros-securities.com)
 
 ### Get Involved
