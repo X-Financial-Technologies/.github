@@ -1,12 +1,10 @@
 # X FINANCIAL TECHNOLOGIES
-
-X Financial Technologies (XFT) is a liquidity provider for closed-end funds and alternative assets. Our software allows users to trade traditional securities, like stocks and bonds, on the blockchain.
+XFT develops blockchain-native investment products, liquidity provisions, and payment rails for the next finance frontier.
 
 ### Our Vision
-We believe blockchain enables a financial system that can serve everyone. Decentralized Finance fosters economic freedom by ensuring fair participation in the global economy. At XFT, our mission is to utilize blockchain to enable an inclusive, resilient, and frictionless global economy. We're engineering the enabling technologies for a single, integrated, and universal access layer to onchain financial services.
+We believe blockchain enables a financial system that can serve everyone. Decentralized finance fosters economic freedom by ensuring fair participation in the global economy. By harnessing the programmable nature of cryptocurrencies, we empower institutions to mitigate systemic risks and avert financial crises through robust, transparent software. Finance CAN be:
 
-### Finance CAN be:
-- **Safe:** Secure and reliable..
+- **Safe:** Secure and reliable.
 - **Transparent:** Clear communication and processes.
 - **Compliant:** Adhering to global standards.
 - **Efficient:** Streamlined and scalable.
@@ -15,7 +13,7 @@ We believe blockchain enables a financial system that can serve everyone. Decent
 
 ## Quick Links
 - **Website:** [https://x-financial-technologies.replit.app/](https://x-financial-technologies.replit.app/)
-- **Documentation:** ...***under construction***...
+- **Documentation:** [https://xft-dev-docs-v1.replit.app/](https://xft-dev-docs-v1.replit.app/)
 - **API Reference:** [https://x-ledger.replit.app/](https://x-ledger.replit.app/)
 - **Linktree:** [https://linktr.ee/xft.reed](https://linktr.ee/xft.reed)
 - **Email:** [alex@alexandros-securities.com](mailto:alex@alexandros-securities.com)
