@@ -1,4 +1,4 @@
-# X FINANCIAL TECHNOLOGIES
+# X Financial Technologies
 XFT develops blockchain-native investment products, liquidity provisions, and payment rails for the next finance frontier.
 
 ### Our Vision
