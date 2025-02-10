@@ -7,11 +7,13 @@ DIRECTORY
 /sai -> statement_of_additional_information
 
 DOCUMENT REFERENCES
-[PDF] New Dealer Rule, https://www.sec.gov/files/34-99477-fact-sheet.pdf
-[PDF] CEF Yield, https://cefadvisors.com/Download/19980404-HeraldTrib-Strategic-Inc.pdf
-[HTML] Fund Comparison, https://xft001.netlify.app/cef.html
-[HTML] Vanguard Effect, https://vanguard-effect.netlify.app/
+[HTML] Website, https://xft.finance/
 [HTML] Fund Summary Prospectus, https://xft-sp001.netlify.app/
+
+
+
+
+
 
 TABLE OF CONTENTS
 About 
