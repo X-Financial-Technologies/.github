@@ -13,20 +13,10 @@ DOCUMENT REFERENCES
 [HTML] Vanguard Effect, https://vanguard-effect.netlify.app/
 [HTML] Fund Summary Prospectus, https://xft-sp001.netlify.app/
 
-
-
-
-
-
 TABLE OF CONTENTS
 About 
 USDX
 XFT Municipal Income Fund 
-
-
-
-
-
 
 ABOUT 
 XFT is an onchain capital markets firm.
